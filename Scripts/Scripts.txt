@@ -1,0 +1,3 @@
+Script desta pasta pertencem aos dois projetos local para colocar
+Entity_Framework_Core_part1\Alura.Filmes\Alura.Filmes.App\Scripts
+Entity_Framework_Core_part2\Alura.Filmes\Alura.Filmes.App\Scripts
